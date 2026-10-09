@@ -2,7 +2,7 @@
 ![Pentester](https://img.shields.io/badge/Fullstack-WebDeveloper-blue?style=flat-square)
 ![Pentester](https://img.shields.io/badge/Pent-ester-blue?style=flat-square&logo=tryhackme) ![BugBounty Hunter](https://img.shields.io/badge/BugBounty-Hunter-blue?style=flat-square&logo=hackthebox)<br><br>
 ### Certifications : <br>
-![AIS](https://img.shields.io/badge/AIS-In%20Progress-green?style=flat-square&logo=offensive-security) ![CPTS-Prep](https://img.shields.io/badge/CPTS-In%20Progress-red?style=flat-square&logo=offensive-security) ![CDSA-Prep](https://img.shields.io/badge/CDSA-In%20Progress-red?style=flat-square&logo=offensive-security) ![CJCA-Prep](https://img.shields.io/badge/CJCA-In%20Progress-red?style=flat-square&logo=offensive-security)
+![AIS](https://img.shields.io/badge/AIS-certified-green?style=flat-square&logo=offensive-security) ![CPTS-Prep](https://img.shields.io/badge/CPTS-In%20Progress-red?style=flat-square&logo=offensive-security) ![CDSA-Prep](https://img.shields.io/badge/CDSA-In%20Progress-red?style=flat-square&logo=offensive-security) ![CJCA](https://img.shields.io/badge/CJCA-certified-green?style=flat-square&logo=offensive-security)
 
 ### Stack
 <p align="left">
